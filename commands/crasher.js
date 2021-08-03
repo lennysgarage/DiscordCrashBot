@@ -24,7 +24,7 @@ module.exports = {
                             })
                             .then()
                             .catch(console.error);
-                        }, 2000);
+                        }, 3000);
 
                     
                     
