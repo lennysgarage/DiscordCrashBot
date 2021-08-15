@@ -10,7 +10,7 @@ Currently tested using ffmpeg version 4.2.4-1 and WSL2
     * Displays information on a specific command
 * ``crasher``:
     * Requires a mp4/video file posted directly before the command
-     * Images are not currently supported
+        * Images are not currently supported
     * Incorporates ffmpeg to create a freezing mp4 that is sent back to the channel
 ---
 **Requirements** 
