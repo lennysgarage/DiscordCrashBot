@@ -16,3 +16,5 @@ Currently tested using ffmpeg version 4.2.4-1 and WSL2
 **Requirements** 
 * ffmpeg
 * A linux system
+---
+The application of this code is to be used a proof concept to show how you can easily create freezing mp4s. I am not responsible or liable for the misuse or malicious purpose of this code. Use at your own risk.
